@@ -20,7 +20,7 @@ We are given a network with multiple **consumer end devices** a single **Server*
 
 And an IP address range of **(203.0.115.40/29)** with 6 usable addresses. provided by the ISP. 
 
-![](images\static-nat.png)
+![](images/static-nat.png)
 
 The server needs a predictable address for inbound traffic so we enable a static translation to one of our public IPs.
 
